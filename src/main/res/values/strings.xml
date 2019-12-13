@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Photos</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_albums">Albums</string>
+    <string name="title_activity_album_contents">AlbumContentsActivity</string>
+    <string name="title_activity_search_results">SearchResultsActivity</string>
+</resources>
